@@ -53,31 +53,35 @@ Speaker identification
 Sentiment analysis
 Advanced clip recommendations
 
-## Project Screenshots
 
-### Home Page
-![Home Page](screenshorts/Screenshot%202026-04-09%20180644.png)
 
-### Video Upload
-![Video Upload](screenshorts/Screenshot%202026-04-09%20180803.png)
+---
 
-### Transcription
-![Transcription](screenshorts/Screenshot%202026-04-09%20191244.png)
+## 📸 Project Screenshots
 
-### Question Answering
-![Question Answering](screenshorts/Screenshot%202026-04-09%20200814.png)
+### 🏠 Home Page
+![Home Page](screenshorts/Screenshot%202026-04-09%20193021.png)
 
-### Video Summary
-![Video Summary](screenshorts/Screenshot%202026-04-09%20203425.png)
+### 🔗 Video Input — Paste YouTube URL
+![Video Input URL](screenshorts/Screenshot%202026-04-09%20180644.png)
 
-### Results
-![Results](screenshorts/Screenshot%202026-04-10%20114411.png)
+### 📁 Video Input — Direct File Upload
+![Video Input Upload](screenshorts/Screenshot%202026-04-09%20180803.png)
 
-### Clip Retrieval
-![Clip Retrieval](screenshorts/Screenshot%202026-04-17%20151334.png)
+### ⚡ Fast QA Mode — Asking a Question
+![Fast QA Thinking](screenshorts/Screenshot%202026-04-09%20171213.png)
 
-### Output View
-![Output View](screenshorts/Screenshot%202026-04-17%20160850.png)
+### ✅ Fast QA Mode — Answer Generated
+![Fast QA Answer](screenshorts/Screenshot%202026-04-09%20180322.png)
 
-### Final Output
-![Final Output](screenshorts/Screenshot%202026-04-17%20161020.png)
+### 🎬 QA + Clip Retrieval — Answer with Relevant Clip
+![Clip Retrieval Answer](screenshorts/Screenshot%202026-04-09%20191244.png)
+
+### 🎥 Clip Retrieval — Extracted Video Clip Playback
+![Clip Playback](screenshorts/Screenshot%202026-04-09%20200839.png)
+
+### 🌐 Multilingual Support — Language Selection
+![Language Selection](screenshorts/Screenshot%202026-04-17%20161020.png)
+
+### 🇮🇳 Multilingual Answer — Response in Telugu
+![Telugu Answer](screenshorts/Screenshot%202026-04-17%20160850.png)
